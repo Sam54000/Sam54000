@@ -10,9 +10,8 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-    uses: athul/waka-readme@v0.1.7
-
-        with:
+    - uses: athul/waka-readme@v0.1.7
+      with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
