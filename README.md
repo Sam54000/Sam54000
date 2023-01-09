@@ -1,5 +1,14 @@
-### Hi there 👋
+## Profile
+### Samuel Louviot, PhD
+- **Position:** Postdoctoral associate
+- **Institution:** Weill Cornell Medicine
+- **Research topic:** Brain stimulation, neural engineering, neuroscience
 
+## Stats 
+(since Jan 1st 2023)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!--
 **Sam54000/Sam54000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
