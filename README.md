@@ -7,9 +7,9 @@
 ## Stats (since Jan 1st 2023)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-208-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,5 +32,5 @@ Mac                      41 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 10/01/2023 01:15:18 UTC
+ Last Updated on 11/01/2023 01:13:09 UTC
 <!--END_SECTION:waka-->
