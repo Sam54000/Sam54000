@@ -7,7 +7,7 @@
 ## Stats (since Jan 1st 2023)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
 
@@ -32,5 +32,5 @@ Mac                      41 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 12/01/2023 01:13:38 UTC
+ Last Updated on 13/01/2023 01:14:03 UTC
 <!--END_SECTION:waka-->
