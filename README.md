@@ -14,7 +14,7 @@
 <!--END_SECTION:waka-->
 
 ## Languages
-<code><img width="10%" src=https://www.vectorlogo.zone/logos/python/python-icon.svg></code>
+<code><img height=50 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
 <code><img width="10%" src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg></code>
 <code><img width="10%" src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg></code>
 
