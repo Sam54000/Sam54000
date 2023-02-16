@@ -15,10 +15,10 @@
 
 ## Languages
 <img height=50 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-<img height=50 src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg/>
-<img height=50 src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg/>
+<img height=50 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+<img height=50 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 
 ## Systems
-<img height=50 src=https://www.vectorlogo.zone/logos/linux/linux-icon.svg/>
-<img height=50 src=https://cdn.worldvectorlogo.com/logos/mac-os-2.svg/>
-<img height=50 src=https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg/>
+<img height=50 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"/>
+<img height=50 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"/>
