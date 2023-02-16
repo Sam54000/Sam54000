@@ -4,7 +4,7 @@
 - **Institution:** Weill Cornell Medicine
 - **Research topic:** Brain stimulation, neural engineering, neuroscience
 
-## Stats (since Jan 1st 2023)
+## Coding time (since Jan 1st 2023)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2019%20mins-blue)
@@ -13,10 +13,12 @@
  
 <!--END_SECTION:waka-->
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+## Languages
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
-- **Systems:** Mac, Linux, Windows
+## Systems
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
