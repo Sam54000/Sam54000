@@ -7,7 +7,6 @@
 ## Coding time (since Jan 1st 2023)
 
 <!--START_SECTION:waka-->
- 
 <!--END_SECTION:waka-->
 
 <img width=50 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> <img width=50 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg"> <img width=50 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
