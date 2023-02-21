@@ -11,10 +11,14 @@
   alt="Coding stats"
      />
 
-<img width=50 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> <img width=50 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg"> <img width=50 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
+## Languages
+<img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> <img width=40 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
 
-<img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png?20150726190850"> 
+## Text editors
+<img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png?20150726190850"> <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"> 
 
-<img width=50 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> <img width=50 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=50 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+
+## Operating systems
+<img width=40 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> <img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 
 
