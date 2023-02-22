@@ -8,8 +8,8 @@
 
 <img
      src="https://github.com/Sam54000/Sam54000/blob/main/images/stat.svg"
-  alt="Coding stats"
-     />
+     alt="Coding stats"
+/>
 
 ## Languages
 <a href="https://www.python.org"><img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> 
