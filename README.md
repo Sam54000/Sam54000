@@ -7,7 +7,7 @@
 ## Coding time (since Jan 1st 2023)
 
 <img
-     src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+     src="https://github.com/Sam54000/Sam54000/blob/main/images/stat.svg"
   alt="Coding stats"
      />
 
