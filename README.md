@@ -7,6 +7,15 @@
 ## Coding time (since Jan 1st 2023)
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 139 hrs 11 mins
+
+Python          104 hrs 3 mins  >>>>>>>>>>>>>>>>>>>------   74.76 %
+Vim Script      27 hrs 25 mins  >>>>>--------------------   19.71 %
+Other           5 hrs 14 mins   >------------------------   03.77 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Languages
