@@ -6,10 +6,8 @@
 
 ## Coding time (since Jan 1st 2023)
 
-<img
-     src="https://github.com/Sam54000/Sam54000/blob/main/images/stat.svg"
-     alt="Coding stats"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Languages
 <a href="https://www.python.org"><img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> 
