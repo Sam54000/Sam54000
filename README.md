@@ -30,6 +30,7 @@ Other           6 hrs 9 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 ## Operating systems
-<img width=40 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> <img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<a href="https://www.linux.org/"><img width=40 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a> 
+<img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 
 
