@@ -1,5 +1,5 @@
 # Samuel Louviot, PhD
-*Postdoctoral researcher*
+*Postdoctoral Associate, Researcher*
 - **Research topic:** Brain stimulation, neural engineering, neuroscience
 - **Institution:** Weill Cornell Medicine
 
