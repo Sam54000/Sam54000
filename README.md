@@ -22,6 +22,9 @@ Prolog             13 hrs 26 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://www.gnu.org/software/bash/"><img width=40 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg"></a>
 <a href= "https://git-scm.com"><img width=40 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 <a href="https://www.mathworks.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png"></a>
+<a href="https://cplusplus.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a>
 
 
 ## Text editors
