@@ -36,4 +36,9 @@ Other              13 hrs 54 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://www.linux.org/"><img width=40 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a> 
 <img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 
+## Neural imaging
+<a href="https://mne.tools/stable/index.html"><img width=80 src="https://camo.githubusercontent.com/b6197051d44205fe06eb7be5ef968f89f60091f82cef3e8a8c2c90b37f1b2f39/68747470733a2f2f6d6e652e746f6f6c732f6465762f5f7374617469632f6d6e655f6c6f676f5f677261792e737667"></a>
+<a href="https://neuroimage.usc.edu/brainstorm/Introduction"><img width=200 src="https://neuroimage.usc.edu/forums/uploads/default/original/1X/1c73b7b39cd14999ba889b0cabd57fc42f12f09c.png"></a>
+<a href="https://www.fil.ion.ucl.ac.uk/spm/software/spm12/"><img width=80 src="https://www.fil.ion.ucl.ac.uk/spm/images/spm12.png">
+<a href="https://sccn.ucsd.edu/eeglab/index.php"><img width=60 src="https://sccn.ucsd.edu/images/sccn.svg">
 
