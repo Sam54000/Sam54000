@@ -18,13 +18,13 @@ Other              13 hrs 55 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 ## Languages
-<a href="https://www.python.org"><img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> 
-<a href="https://www.gnu.org/software/bash/"><img width=40 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg"></a>
-<a href="https://www.mathworks.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
-<a href="https://en.wikipedia.org/wiki/SQL"><img width=80 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png"></a>
-<a href="https://cplusplus.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></a>
-<a href="https://www.rust-lang.org"><img width=50 src="https://www.rust-lang.org/logos/rust-logo-512x512.png"></a>
+<a href="https://www.python.org"><img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"></a> 
+<a href="https://www.gnu.org/software/bash/"><img width=40 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="Bash"></a>
+<a href="https://www.mathworks.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img width=80 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL"></a>
+<a href="https://cplusplus.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5"></a>
+<a href="https://www.rust-lang.org"><img width=50 src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust"></a>
 
 
 ## Text editors
@@ -37,8 +37,8 @@ Other              13 hrs 55 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 
 ## Neural imaging
-<a href="https://mne.tools/stable/index.html"><img width=80 src="https://camo.githubusercontent.com/b6197051d44205fe06eb7be5ef968f89f60091f82cef3e8a8c2c90b37f1b2f39/68747470733a2f2f6d6e652e746f6f6c732f6465762f5f7374617469632f6d6e655f6c6f676f5f677261792e737667"></a>
-<a href="https://neuroimage.usc.edu/brainstorm/Introduction"><img width=200 src="https://neuroimage.usc.edu/forums/uploads/default/original/1X/1c73b7b39cd14999ba889b0cabd57fc42f12f09c.png"></a>
-<a href="https://www.fil.ion.ucl.ac.uk/spm/software/spm12/"><img width=100 src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg">
-<a href="https://sccn.ucsd.edu/eeglab/index.php"><img width=60 src="https://sccn.ucsd.edu/images/sccn.svg">
+<a href="https://mne.tools/stable/index.html"><img width=80 src="https://camo.githubusercontent.com/b6197051d44205fe06eb7be5ef968f89f60091f82cef3e8a8c2c90b37f1b2f39/68747470733a2f2f6d6e652e746f6f6c732f6465762f5f7374617469632f6d6e655f6c6f676f5f677261792e737667" alt = "MNE"></a>
+<a href="https://neuroimage.usc.edu/brainstorm/Introduction"><img width=200 src="https://neuroimage.usc.edu/forums/uploads/default/original/1X/1c73b7b39cd14999ba889b0cabd57fc42f12f09c.png" alt = "Brainstorm"></a>
+<a href="https://www.fil.ion.ucl.ac.uk/spm/software/spm12/"><img width=100 src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg" alt = "SPM">
+<a href="https://sccn.ucsd.edu/eeglab/index.php"><img width=60 src="https://sccn.ucsd.edu/images/sccn.svg" alt = "EEGLAB">
 
