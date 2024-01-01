@@ -3,6 +3,7 @@
 - **Research topic:** Brain stimulation, neural engineering, neuroscience
 - **Institution:** Weill Cornell Medicine
 
+
 ## Coding time (since Jan 1st 2023)
 
 <!--START_SECTION:waka-->
@@ -16,6 +17,11 @@ Other              15 hrs 11 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+## YEARLY CODING STATS
+- [2023](https://wakatime.com/a-look-back-at-2023/5bfb70e6-43c1-411b-b05d-6e015b1a5e45/vvzdryppqe)
+  Top 5% of Wakatime devs
+- 2024
 
 ## Languages
 <a href="https://www.python.org"><img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"></a> 
