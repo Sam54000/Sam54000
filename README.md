@@ -1,5 +1,5 @@
 # Samuel Louviot, PhD
-*Neural Engineer | Technical Specialist III | Software Engineer*
+## *Neuroscientist/Engineer | Technical Specialist III | Software Engineer*
 
 
 ## Coding time (since Jan 1st 2023)
@@ -41,7 +41,7 @@ Other              15 hrs 11 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 
 ## Neural imaging
-<a href="https://mne.tools/stable/index.html"><img width=80 src="https://camo.githubusercontent.com/b6197051d44205fe06eb7be5ef968f89f60091f82cef3e8a8c2c90b37f1b2f39/68747470733a2f2f6d6e652e746f6f6c732f6465762f5f7374617469632f6d6e655f6c6f676f5f677261792e737667" alt="MNE"></a>
+<a href="https://mne.tools/stable/index.html"><img width=80 src="https://mne.tools/stable/_static/mne_logo_small.svg" alt="MNE"></a>
 <a href="https://neuroimage.usc.edu/brainstorm/Introduction"><img width=200 src="https://neuroimage.usc.edu/forums/uploads/default/original/1X/1c73b7b39cd14999ba889b0cabd57fc42f12f09c.png" alt="Brainstorm"></a>
 <a href="https://www.fil.ion.ucl.ac.uk/spm/software/spm12/"><img width=100 src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg" alt="SPM">
 <a href="https://sccn.ucsd.edu/eeglab/index.php"><img width=60 src="https://sccn.ucsd.edu/images/sccn.svg" alt="EEGLAB">
