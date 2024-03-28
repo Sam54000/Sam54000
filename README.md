@@ -1,5 +1,5 @@
 # Samuel Louviot, PhD
-<font size="15">_Neuroscientist/Neural Engineer | Technical Specialist III | Software Engineer_</font>
+<font size="15">_Neuroscientist/Neural Engineer | Technical Specialist III | Scientific Software Engineer Generalist_</font>
 
 ## Coding time (since Jan 1st 2023)
 
