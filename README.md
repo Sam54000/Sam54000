@@ -26,7 +26,6 @@ Other              21 hrs 10 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://www.mathworks.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab"></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img width=80 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="SQL"></a>
 <a href="https://cplusplus.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5"></a>
 <a href="https://www.rust-lang.org"><img width=50 src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust"></a>
 
 
