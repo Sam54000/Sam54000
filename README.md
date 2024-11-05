@@ -1,8 +1,6 @@
 # Samuel Louviot, PhD
 <font size="15">_Neuroscientist/Neural Engineer | Scientific Software Engineer Generalist_</font>
 
-## Coding time (since Jan 1st 2023)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,7 +15,6 @@ Other              33 hrs 25 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## YEARLY CODING STATS
 - [2023](https://wakatime.com/a-look-back-at-2023/5bfb70e6-43c1-411b-b05d-6e015b1a5e45/vvzdryppqe)
-  Top 5% of Wakatime devs
 - 2024
 
 ## Languages
