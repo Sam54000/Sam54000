@@ -19,9 +19,10 @@ jobs:
           REPOSITORY: Sam54000/Sam54000
           SHOW_TITLE: false
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
+          TIME_RANGE: last_year
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          SHOW_TOTAL: true
           LANG_COUNT: 3
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
