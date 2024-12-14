@@ -25,12 +25,6 @@ Text          19 hrs 20 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <a href="https://cplusplus.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></a>
 <a href="https://www.rust-lang.org"><img width=50 src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust"></a>
 
-
-## Text editors
-<a href="https://www.vim.org"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png?20150726190850"></a> 
-<a href="https://code.visualstudio.com"><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
-
-
 ## Operating systems
 <a href="https://www.linux.org/"><img width=40 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a> 
 <img width=40 src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg"> <img width=40 src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
