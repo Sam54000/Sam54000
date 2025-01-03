@@ -13,10 +13,6 @@ Text          19 hrs 58 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-## YEARLY CODING STATS
-- [2023](https://wakatime.com/a-look-back-at-2023/5bfb70e6-43c1-411b-b05d-6e015b1a5e45/vvzdryppqe)
-- 2024
-
 ## Languages
 <a href="https://www.python.org"><img width=40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"></a> 
 <a href="https://www.gnu.org/software/bash/"><img width=40 src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="Bash"></a>
