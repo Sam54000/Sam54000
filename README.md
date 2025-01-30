@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 957 hrs 36 mins
+Total Time (year to date): 957 hrs 36 mins
 
 Python        885 hrs 35 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   92.48 %
 Text          20 hrs 51 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.18 %
