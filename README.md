@@ -1,6 +1,7 @@
 # Samuel Louviot, PhD
 <font size="15">_Neuroscientist/Neural Engineer | Scientific Software Engineer Generalist_</font>
 
+# Statistics since 2023-01-01
 <!--START_SECTION:waka-->
 
 ```txt
